@@ -16,5 +16,8 @@ navigation:
   - name: About Us
     id: cf0d733f-5f32-4857-ab3a-1351c6d97db5
     type: content
+  - name: Contact Us
+    id: 8072fb1f-72c8-4eed-a424-85f1ce0cd590
+    type: content
 title: Robbie Mac
 description: Cycling Fit
