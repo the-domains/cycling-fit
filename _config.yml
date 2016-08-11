@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.8168334707152098
 name: Cycling Fit
+navigation:
+  - name: About Us
+    id: cf0d733f-5f32-4857-ab3a-1351c6d97db5
+    type: content
 title: Robbie Mac
 description: Cycling Fit
