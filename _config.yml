@@ -1,4 +1,4 @@
-typography_spectrum: 0.9459919130895287
+typography_spectrum: 0.47578481771051884
 color:
   brandStrength: 0.14550336077809334
   lightness: 0.4910074337385595
@@ -10,7 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-layout_spectrum: 0.20365499868057668
+layout_spectrum: 0.8168334707152098
 name: Cycling Fit
 title: Robbie Mac
 description: Cycling Fit
